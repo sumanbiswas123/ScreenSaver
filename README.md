@@ -14,3 +14,4 @@ The default template for a Neutralinojs app. It's possible to use your favorite 
 
 - `trayIcon.png` - Made by [Freepik](https://www.freepik.com) and downloaded from [Flaticon](https://www.flaticon.com)
 # ScreenSaver
+# ScreenSaver
